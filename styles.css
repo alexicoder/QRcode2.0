@@ -43,3 +43,9 @@ img {
     font-size: 1.375em;
     color: var(--dark-navy);
 }
+
+.card-text {
+    color: var(--grey);
+    letter-spacing: 0.19px;
+    font-size: 15px;
+}
