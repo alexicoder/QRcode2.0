@@ -14,6 +14,10 @@ body {
     background-color: var(--light-grey);
 }
 
+img {
+    max-width: 100%;
+}
+
 .card {
     padding: 1em 1em 2.5em 1em;
     width: 100%;
