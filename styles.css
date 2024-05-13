@@ -10,10 +10,12 @@
     --grey: #7D889E;
     --light-grey: #D5E1EF;
     --white: #FFFFFF;
+    --font: "Outfit", sans-serif;
 }
 
 body {
     background-color: var(--light-grey);
+    font-family: var(--font);
 }
 
 img {
@@ -28,10 +30,12 @@ img {
     background-color: var(--white);
 }
 
+.card-img {
+    border-radius: 0.625em;
+}
+
 .card-header {
     margin: 1.5em 0 1em 0;
 }
 
-.card-img {
-    border-radius: 0.625em;
-}
+.card
