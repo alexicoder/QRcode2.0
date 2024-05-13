@@ -25,3 +25,7 @@ img {
     border-radius: 1.25em;
     background-color: var(--white);
 }
+
+.card-header {
+    margin: 1.5em 0 1em 0;
+}
