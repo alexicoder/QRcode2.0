@@ -28,6 +28,7 @@ img {
     max-width: 20em;
     border-radius: 1.25em;
     background-color: var(--white);
+    text-align: center;
 }
 
 .card-img {
@@ -38,4 +39,7 @@ img {
     margin: 1.5em 0 1em 0;
 }
 
-.card
+.card-title {
+    font-size: 1.375em;
+    color: var(--dark-navy);
+}
