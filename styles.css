@@ -9,3 +9,7 @@
     --light-grey: #D5E1EF;
     --white: #FFFFFF;
 }
+
+body {
+    background-color: var(--light-grey);
+}
